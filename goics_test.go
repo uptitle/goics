@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	goics "github.com/jordic/goics"
+	goics "github.com/uptitle/goics"
 )
 
 type Event struct {

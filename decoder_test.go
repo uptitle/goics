@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	goics "github.com/jordic/goics"
+	goics "github.com/uptitle/goics"
 )
 
 func TestTesting(t *testing.T) {
